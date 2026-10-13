@@ -1,0 +1,2 @@
+# Pesi dei modelli addestrati (troppo grandi per il repository, si rigenerano dai notebook)
+*.pth
